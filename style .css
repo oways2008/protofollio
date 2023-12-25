@@ -1,0 +1,46 @@
+body{
+    background-image: url(home.jpg);
+}
+h1{
+    color: rgb(255, 0, 81);
+    padding-top: 120px;
+    padding-left: 120px;
+}
+span{
+    color: white;
+    padding-top:30px;
+    font-size: 0.7em;
+    font-weight: 400;
+    padding-left: 50px;
+}
+p{
+    color: white;
+    padding-top:75px;
+    font-size: 1em;
+    font-weight: 400;
+    padding-left: 120px;
+   
+
+}
+.main-btn{
+    color: white;
+    background-color: rgb(86, 86, 232);
+    text-decoration: none;
+     font-size: 1.1em;
+    font-weight:600 ;
+    display: inline-block;
+    padding: 0.9335em 2.1815em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7;
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+.main-btn:hover{
+    background-color: rgb(69, 69, 241);
+    transform: scale(1.1);
+}
+
+
